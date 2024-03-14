@@ -1,6 +1,11 @@
 # ANÁLISIS DE LA VIVIENDA EN MADRID: IDEALISTA
 ## _Proyecto final IRONHACK_
 
+### Programas:
+- Jupyter notebook
+- Pandas
+- Tableau
+
 ### Descripción:
 
 - Extracción de datos de la web 'Idealista'
