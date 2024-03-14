@@ -4415,8 +4415,8 @@ Diferencia (%) frente a cuatrimestestre anterior:</run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='31' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='30' param='vert' type-v2='layout-flow' w='99000' x='500' y='1000'>
+            <zone h='100000' id='33' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='32' param='vert' type-v2='layout-flow' w='99000' x='500' y='1000'>
                 <zone h='5250' id='17' type-v2='text' w='99000' x='375' y='625'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontname='Tableau Light' fontsize='18'>RETORNO DE LA INVERSIÓN</run>
@@ -4483,8 +4483,8 @@ Diferencia (%) frente a cuatrimestestre anterior:</run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1000' minheight='1000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='17' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='16' param='vert' type-v2='layout-flow' w='99000' x='500' y='1000'>
+            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='18' param='vert' type-v2='layout-flow' w='99000' x='500' y='1000'>
                 <zone fixed-size='280' h='38875' id='6' is-fixed='true' name='Hist_alq_comp' w='46125' x='750' y='6250'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4568,8 +4568,8 @@ Diferencia (%) frente a cuatrimestestre anterior:</run>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='20' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='19' param='vert' type-v2='layout-flow' w='99000' x='500' y='1000'>
+            <zone h='100000' id='22' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='21' param='vert' type-v2='layout-flow' w='99000' x='500' y='1000'>
                 <zone fixed-size='280' h='71375' id='7' is-fixed='true' name='LATPredComp' w='52125' x='47688' y='750'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -5092,7 +5092,7 @@ Diferencia (%) frente a cuatrimestestre anterior:</run>
       </viewpoint>
       <simple-id uuid='{D04CA373-010B-4ACB-8EFD-1185A9B226EC}' />
     </window>
-    <window class='worksheet' name='LATPredComp'>
+    <window class='worksheet' maximized='true' name='LATPredComp'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -5323,7 +5323,7 @@ Diferencia (%) frente a cuatrimestestre anterior:</run>
       <active id='-1' />
       <simple-id uuid='{41438345-E23D-41C2-877E-0559346FD0B2}' />
     </window>
-    <window class='dashboard' maximized='true' name='Dashboard 4'>
+    <window class='dashboard' name='Dashboard 4'>
       <viewpoints>
         <viewpoint name='LATErrorAlq'>
           <zoom type='entire-view' />
