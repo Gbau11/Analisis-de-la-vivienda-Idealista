@@ -6,6 +6,8 @@
 - Pandas
 - Tableau
 
+![plot](dos.png)
+
 ### Descripción:
 
 - Extracción de datos de la web 'Idealista'
